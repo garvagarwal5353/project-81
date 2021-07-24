@@ -1,0 +1,12 @@
+.background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#mycanvas{
+    background-color: aliceblue;
+    border: 10px ridge orange;
+}
+h1{
+    color:brown;
+}
